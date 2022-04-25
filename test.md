@@ -1,9 +1,9 @@
-
+Neue erste Zeile
 Edit made remote
 
 New Change; Try Pull; Erledigt
 
-Versuch zum fetch!
+Diese Zeile löschen (Versuch zum fetch!)
 
 Das Wochenende war toll
 
